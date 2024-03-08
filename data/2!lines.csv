@@ -619,6 +619,7 @@ line_cd,company_cd,line_name,line_name_k,line_name_h,line_name_r,line_name_zh,li
 99925,242,鹿児島市電１系統,カゴシマシデンイチケイトウ,鹿児島市電１系統,Kagoshima City Tram Route 1,,,#4243BE,4,I,,,#4243BE,,,REVERSED_ROUND,,,0,99925
 99926,242,鹿児島市電２系統,カゴシマシデンニケイトウ,鹿児島市電２系統,Kagoshima City Tram Route 2,,,#EF1731,4,N,,,#EF1731,,,REVERSED_ROUND,,,0,99926
 99927,243,ゆいレール,ユイレール,沖縄都市モノレール線,Yui Rail,,,#CC0000,5,,,,,,,MONOCHROME_ROUND,,,0,99927
-100001,1001,สายสุขุมวิท,スクムウィットセン,สายสุขุมวิท,Sukhumvit Line,素坤逸线,수쿰윗선,#5DB71D,1,N,,E,#5DB71D,#5DB71D,#5DB71D,ROUND,ROUND,ROUND,0,100001
-100002,1001,สายสีลม,シーロムセン,สายสีลม,Silom Line,世隆线,실롬 선,#006400,1,W,,S,#006400,#006400,#006400,ROUND,ROUND,ROUND,0,100002
-100003,1001,สายสีลม,ゴールドライン,สายสีลม,Gold Line,金线,골드 라인,#D4AF37,1,G,,,#D4AF37,#D4AF37,#D4AF37,ROUND,ROUND,ROUND,0,100003
+100001,1001,สายสุขุมวิท,スクムウィットセン,สายสุขุมวิท,Sukhumvit Line,素坤逸线,수쿰윗선,#5DB71D,2,N,,E,#5DB71D,#5DB71D,#5DB71D,ROUND,ROUND,ROUND,0,100001
+100002,1001,สายสีลม,シーロムセン,สายสีลม,Silom Line,世隆线,실롬 선,#006400,2,W,,S,#006400,#006400,#006400,ROUND,ROUND,ROUND,0,100002
+100003,1001,สายสีลม,ゴールドライン,สายสีลม,Gold Line,金线,골드 라인,#D4AF37,2,G,,,#D4AF37,#D4AF37,#D4AF37,ROUND,ROUND,ROUND,0,100003
+100004,1002,สายเฉลิมรัชมงคล,ブルーライン,สายเฉลิมรัชมงคล,Blue Line,蓝线,블루 라인,#0065B7,3,BL,,,#0065B7,,,REVERSED_SQUARE_WEST,,,0,100004
